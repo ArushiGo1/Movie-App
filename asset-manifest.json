@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ArushiGo1/netflix-clone/static/css/main.177ca9d8.css",
+    "main.js": "/ArushiGo1/netflix-clone/static/js/main.048dec8e.js",
+    "static/js/488.9576533a.chunk.js": "/ArushiGo1/netflix-clone/static/js/488.9576533a.chunk.js",
+    "index.html": "/ArushiGo1/netflix-clone/index.html",
+    "main.177ca9d8.css.map": "/ArushiGo1/netflix-clone/static/css/main.177ca9d8.css.map",
+    "main.048dec8e.js.map": "/ArushiGo1/netflix-clone/static/js/main.048dec8e.js.map",
+    "488.9576533a.chunk.js.map": "/ArushiGo1/netflix-clone/static/js/488.9576533a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.177ca9d8.css",
+    "static/js/main.048dec8e.js"
+  ]
+}
